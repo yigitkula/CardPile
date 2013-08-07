@@ -1,3 +1,7 @@
+CardPile is a playing cards pile framework written in Java.
+It's very light, stable and easy to use.
+
+
 Getting Started
 ========
 
